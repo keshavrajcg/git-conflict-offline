@@ -1,1 +1,1 @@
-editing for branch 3
+This is Git Project. We are learning Git and GitHub, PR and conflict Resolution.
